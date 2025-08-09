@@ -6,7 +6,10 @@ public class Main {
 		System.out.println("Hello");
 	}
 	public double sum(double d1, double d2) {
+
 		//adding two variables
+
+		//adding parameters
 		double  result= d1+d2;
 		return result;
 	}
