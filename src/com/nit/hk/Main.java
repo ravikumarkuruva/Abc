@@ -6,7 +6,8 @@ public class Main {
 		System.out.println("Hello");
 	}
 	public double sum(double d1, double d2) {
-		return d1+d2;
+		double  result= d1+d2;
+		return result;
 	}
 
 }
